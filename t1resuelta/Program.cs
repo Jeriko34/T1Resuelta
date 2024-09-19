@@ -26,10 +26,9 @@ if (an >= 3)
 }
 else
     des = totgan * 0.045;
-Console.WriteLine($"Hola {nombre}");
+Console.WriteLine($"Hola! {nombre}");
 Console.WriteLine($"Su salario es {totgan}: ");
 Console.WriteLine($"Se te descuenta por impuestos: {des}: ");
 Console.WriteLine($"Salario neto: {totgan - des}: ");
-Console.ReadKey();
 
 
