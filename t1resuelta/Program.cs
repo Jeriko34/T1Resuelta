@@ -7,7 +7,7 @@ Console.WriteLine("Escriba su sueldo: ");
 salar = double.Parse(Console.ReadLine());
 Console.WriteLine("Ventas que se realizaron: ");
 vent = double.Parse(Console.ReadLine());
-Console.Write("Escriba los años que tiene la empresa: ");
+Console.Write("Escriba los años que tiene la empresa.: ");
 an = int.Parse(Console.ReadLine());
 if (vent < 600)
 {
