@@ -1,7 +1,7 @@
 ﻿int placa = 0, conta = 1;
 string color;
 
-Console.WriteLine("Escriba los colores de la calcomania de los autos: ");
+Console.WriteLine("Escriba los colores de la calcomania de los autos.: ");
 color = Console.ReadLine().ToUpper();
 
 while (conta >= 1)
