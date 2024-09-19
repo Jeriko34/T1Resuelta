@@ -24,5 +24,6 @@ while (conta >= 1)
     else if (color == "F") {
         conta -= 1;
         Console.WriteLine($"{placa}:");
+        break;
     }
 }
